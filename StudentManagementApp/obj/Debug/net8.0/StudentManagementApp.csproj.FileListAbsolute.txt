@@ -1,0 +1,15 @@
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.exe
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.deps.json
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.runtimeconfig.json
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.dll
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.pdb
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.AssemblyInfoInputs.cache
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.AssemblyInfo.cs
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.csproj.CoreCompileInputs.cache
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.sourcelink.json
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.dll
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\refint\StudentManagementApp.dll
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.pdb
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.genruntimeconfig.cache
+D:\ThuMucCuaTui\Programmer\MyProject\StudentManagementApp\obj\Debug\net8.0\ref\StudentManagementApp.dll
