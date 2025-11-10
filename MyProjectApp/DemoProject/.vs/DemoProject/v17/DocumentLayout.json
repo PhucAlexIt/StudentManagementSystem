@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThuMucCuaTui\\Programmer\\MyProject\\MyProjectApp\\DemoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F61BEA5-D0A6-45A3-8BFB-751F5FFB5DC3}|DemoProject.csproj|d:\\thumuccuatui\\programmer\\myproject\\myprojectapp\\demoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F61BEA5-D0A6-45A3-8BFB-751F5FFB5DC3}|DemoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThuMucCuaTui\\Programmer\\MyProject\\MyProjectApp\\DemoProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ThuMucCuaTui\\Programmer\\MyProject\\MyProjectApp\\DemoProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:57:51.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
